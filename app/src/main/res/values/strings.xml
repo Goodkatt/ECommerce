@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ECommerce</string>
+    <array name="spinner">
+        <item> Airtel </item>
+        <item> Vodafone </item>
+        <item> Reliance </item>
+        <item> Aircel </item>
+        <item> BSNL </item>
+    </array>
+
+    <string name="title_home">Home</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_category">Category</string>
+    <string name="title_profile">Profile</string>
+    <string name="search">Search</string>
+    <string name="about">About</string>
+</resources>
